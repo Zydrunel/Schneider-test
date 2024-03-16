@@ -1,0 +1,13 @@
+{
+  "name": "Schneider-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zydrunel <zydrune.lisauskaite@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^13.7.0"
+  }
+}
