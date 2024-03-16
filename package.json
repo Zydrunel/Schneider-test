@@ -5,7 +5,8 @@
   "author": "Zydrunel <zydrune.lisauskaite@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "cy:open": "cypress open"
+    "cy:open": "cypress open",
+    "cy:test": "cypress run"
   },
   "dependencies": {
     "cypress": "^13.7.0"
